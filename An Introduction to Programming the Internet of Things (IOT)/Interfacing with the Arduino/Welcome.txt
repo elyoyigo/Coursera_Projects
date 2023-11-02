@@ -1,0 +1,7 @@
+Welcome to "Interfacing with the Arduino"
+
+In here I will be uploading the necessary files and information to complete this Coursera Course! 
+
+Hope this is helpfull to you and use this information carefully, because we don't want to have this files plagiarized
+
+Enjoy!
