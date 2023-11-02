@@ -1,0 +1,7 @@
+Welcome to "The Arduino Platform and C Programming"
+
+In here I will be uploading the necessary files to complete the this Coursera Course.
+
+Hope this information is helpfull to you to complete it. 
+
+Enjoy!
