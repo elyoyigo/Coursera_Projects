@@ -1,0 +1,7 @@
+Welcome to "Programming for Everybody (Getting Started with Python)"
+
+In here I will be uploading my files for this coursera course.
+
+Hop this information is usefull to you for completing the course. But don't copy all the information, as we don't want to have plagiarized information
+
+Enjoy!
