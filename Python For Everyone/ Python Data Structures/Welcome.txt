@@ -2,6 +2,7 @@ Welcome to "Python Data Structures"
 
 In here I'm going to upload al the necessary files to complete this Coursera course.
 
-Hope this information is usefull to you towards completing the coure. Please dont copy all the information here, as we don't want to have plagiarized information.
+Hope this information is usefully to you towards completing the course.
+Please don't copy all the information here, as we don't want to have plagiarized information.
 
 Enjoy!
